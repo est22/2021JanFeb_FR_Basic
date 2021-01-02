@@ -5,6 +5,6 @@
 
 <pre>
 <code>
-교재: 파이썬 초보를 위한 Pandas 데이터 분석 입문
+pandas
 </code>
 </pre>
