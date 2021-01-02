@@ -5,11 +5,6 @@
 
 <pre>
 <code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-
-}
+교재: 파이썬 초보를 위한 Pandas 데이터 분석 입문
 </code>
 </pre>
